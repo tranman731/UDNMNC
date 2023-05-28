@@ -1,0 +1,30 @@
+a {
+  text-decoration: none !important;
+}
+.woocommerce-LoopProduct-link img:hover {
+    transform: scale(1.2);
+    
+}
+  .woocommerce-LoopProduct-link img {
+    height: 250px;
+    transition: transform 1s;
+}
+.product-category img:hover {
+    transform: scale(1.2);
+    
+}
+  .product-category img {
+    height: 200px;
+    transition: transform 1s;
+}
+  .woocommerce-loop-product__title {
+    font-weight: bold;
+    height: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.site-header{
+    background-color: #fff;
+}
+  
